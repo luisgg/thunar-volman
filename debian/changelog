@@ -1,3 +1,10 @@
+thunar-volman (0.8.0-0ubuntu1~ppa1+aurex1) precise; urgency=low
+
+  * Added patch to use 'exo-open --launch FileManager' to
+    remove inconditional use of thunar.
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Wed, 22 Aug 2012 10:13:41 +0200
+
 thunar-volman (0.8.0-0ubuntu1~ppa1) precise; urgency=low
 
   * Precise ppa backport.
